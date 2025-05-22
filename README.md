@@ -147,6 +147,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 You are free to use, modify, and distribute this software with attribution.
 See the LICENSE file for details.
+
 ---
 
 ## Contact
